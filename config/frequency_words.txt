@@ -20,7 +20,7 @@ deepmind
 
 chatgpt
 openai
-sora
+codex
 
 claude
 Anthropic
@@ -33,6 +33,8 @@ ios
 ai
 !gai
 人工智能
+Agent
+模型
 
 自动驾驶
 
@@ -42,12 +44,13 @@ ai
 中国
 
 美国
-日本
-韩国
-
-芯片
-光刻机
 
 科技
 
-核能
+Facebook
+
+Applovin
+
+字节
+
+
